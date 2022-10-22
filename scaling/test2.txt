@@ -1,0 +1,2 @@
+test string12345 
+string2r строка123
